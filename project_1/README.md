@@ -77,10 +77,3 @@ required per the submission guidelines. Add your video link here once recorded:
 
 > **Video:** https://drive.google.com/file/d/1D3QnKBuKF_-T-52R3_UKfMl5NXf8MFm4/view?usp=sharing
 
-## 📄 Theory Document
-
-See [`docs/Theory_Concepts.pdf`](docs/Theory_Concepts.pdf) for the written answers to Part A's
-conceptual questions.
-
----
-*Built as part of a supervised learning / regression coursework project. "Quality is our Motto."*
