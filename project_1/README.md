@@ -75,7 +75,7 @@ the notebook (Parts D, E, and H).
 A 5–10 minute recorded walkthrough (face + screen) explaining the concepts and implementation is
 required per the submission guidelines. Add your video link here once recorded:
 
-> **Video:** _[add your Google Drive / YouTube unlisted link here]_
+> **Video:** https://drive.google.com/file/d/1D3QnKBuKF_-T-52R3_UKfMl5NXf8MFm4/view?usp=sharing
 
 ## 📄 Theory Document
 
